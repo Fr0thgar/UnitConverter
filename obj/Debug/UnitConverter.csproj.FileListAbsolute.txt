@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\UnitConverter\UnitConverter\obj\Debug\UnitConverter.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\UnitConverter\UnitConverter\obj\Debug\UnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\UnitConverter\UnitConverter\bin\Debug\UnitConverter.dll
+C:\Users\PC\source\repos\UnitConverter\UnitConverter\bin\Debug\UnitConverter.pdb
+C:\Users\PC\source\repos\UnitConverter\UnitConverter\bin\Debug\Wox.Plugin.dll
+C:\Users\PC\source\repos\UnitConverter\UnitConverter\obj\Debug\UnitConverter.csproj.CopyComplete
+C:\Users\PC\source\repos\UnitConverter\UnitConverter\obj\Debug\UnitConverter.dll
+C:\Users\PC\source\repos\UnitConverter\UnitConverter\obj\Debug\UnitConverter.pdb

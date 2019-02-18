@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\UnitConverter\UnitConverter\bin\Release\UnitConverter.dll
+C:\Users\PC\source\repos\UnitConverter\UnitConverter\bin\Release\UnitConverter.pdb
+C:\Users\PC\source\repos\UnitConverter\UnitConverter\bin\Release\Wox.Plugin.dll
+C:\Users\PC\source\repos\UnitConverter\UnitConverter\obj\Release\UnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\UnitConverter\UnitConverter\obj\Release\UnitConverter.csproj.CopyComplete
+C:\Users\PC\source\repos\UnitConverter\UnitConverter\obj\Release\UnitConverter.dll
+C:\Users\PC\source\repos\UnitConverter\UnitConverter\obj\Release\UnitConverter.pdb
